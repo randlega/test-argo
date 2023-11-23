@@ -1,1 +1,4 @@
-netdata.ingress.hosts: hawkeye.randlefamily.ca
+netdata:
+  ingress:
+    hosts: hawkeye.randlefamily.ca
+    path: /monitoring
