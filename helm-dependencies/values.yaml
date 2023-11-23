@@ -3,6 +3,8 @@ netdata:
     hosts: 
       - hawkeye.randlefamily.ca
     path: /monitoring
+    spec:
+      ingressClassName: traefik
 
 ingress:
   hosts:
