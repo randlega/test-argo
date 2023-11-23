@@ -2,3 +2,7 @@ netdata:
   ingress:
     hosts: hawkeye.randlefamily.ca
     path: /monitoring
+
+ingress:
+  hosts: hawkeye.randlefamily.ca
+  path: /monitoring
